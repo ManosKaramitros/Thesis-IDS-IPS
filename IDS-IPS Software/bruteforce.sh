@@ -81,4 +81,4 @@ for malipbr in "${source_ips_br[@]}"; do
 done
 
 echo
-echo "Intruder Blocked. Make sure you enable SSH Password Authentication (if need
+echo "Intruder Blocked. Make sure you enable SSH Password Authentication (if needed) after the Attack is completely Mitigated."
